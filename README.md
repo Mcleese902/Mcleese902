@@ -1,20 +1,22 @@
-# Hello, I'm Alex! 👋
+# Welcome to my game of Life 👋
 
-Welcome to my GitHub profile! I'm a skilled software developer based in Westville, Nova Scotia, Canada. I specialize in Python development, with expertise in PyQt5 GUI development , full stack web development and ethical hacking. I'm passionate about building robust software solutions and continuously expanding my knowledge in various technologies.
+I present to you my Github Profile. My interests and passions can be found with Full stack python development - A life long journey of expanding my knowledge. I'm passionate about witnessing frontrow our entire society shift and forever change the world as we know it. 
+
+### Patiently awaiting Neurolink to go public ### 
 
 ## About Me
 
-- 🔭 I’m currently working on a suite of GUI addon's for Kali Linux's top10 tools.
+- 🔭 I’m currently working on https://blackdiamondtech.ca && My gpt4o-mini Chat Assistant . You can check my repo library for the related source 
 - 🌱 I’m always learning and exploring new technologies to stay up-to-date with the latest trends in software development.
-- 💼 I'm open to collaboration on exciting projects and opportunities in Python development, web development, and ethical hacking.
-- 📫 You can reach me via [LinkedIn](link-to-linkedin) or [Twitter](link-to-twitter).
+- 💼 I'm open to collaboration on exciting projects and opportunities in Python development, web development, and <s>ethical</s> hacking.
+- 📫 You can reach me via email @ admin@blackdiamondtech.ca 
 
 ## Skills
 
 
 ### Programming Languages
   
-  Python: Proficient in Python for web development, scripting, automation, and data analysis.
+  Python: Proficient in Python for web development, scripting, automation, and red team ops
 
 JavaScript: Experienced in both frontend and backend development with frameworks like Node.js.
 
@@ -22,15 +24,13 @@ PHP: Skilled in server-side scripting and web application development.
 
   ## Web Development
 
-PHP: Primary language for most application projects, integrating robust server-side logic.
-
 HTML/CSS: Strong foundation in creating responsive and accessible web interfaces.
 
 Node.js: Expertise in building scalable network applications using Node.js and Express.js.
 
 TailwindCSS: Utilized TailwindCSS for creating modern, responsive, and customizable UI components.
 
-Bootstrap5: Experienced in using Bootstrap5 for rapid UI development with responsive and consistent design.
+PHP : 
 
 ## Ethical Hacking and Cybersecurity
 
@@ -51,73 +51,27 @@ Airgeddon: Knowledgeable in wireless security auditing with Airgeddon.
 MySQL: Strong experience in designing, querying, and managing relational databases using MySQL.
 
 SQLite: Utilized SQLite for lightweight, file-based database management in various projects.
-
-PostgreSQL: Knowledgeable in advanced SQL queries and database optimization with PostgreSQL.
-
-## Tools & Technologies
-
-Git: Proficient in version control, collaboration, and project management using Git and GitHub.
-
-Linux: Skilled in using Linux for development, server management, and security testing.
-
-API Development: Developed and consumed RESTful APIs, ensuring efficient data exchange between client and server applications.
-
-
 ## Projects
 
-## theHarvester GUI:
+*** 1. Fantasy Slot Adventure (Ongoing) *** 
+A web-based slots game with RPG elements where players unlock new characters and abilities by winning spins. This project focuses on creating an engaging user experience with a blend of casual gaming and character progression. The game features:
 
-Description: A user-friendly graphical interface for theHarvester, an open-source tool used for gathering email accounts, subdomains, hosts, employee names, open ports, and banners from different public sources.
-Technologies: Python, PyQt5, theHarvester
-Features:
-Multiple data source support
-Advanced command options with a dropdown menu
-Progress bar for visual feedback during command execution
-Output and error display
-Status: In development
+Frontend: React.js, Tailwind CSS for a modern and responsive UI.
+Backend: Node.js, Express, MongoDB for scalable data management.
+Key Features: In-app purchases, character upgrades, power-ups, and lore-rich gameplay.
+Next Steps: Integrating the game as a mobile application using Flutter after the web version is successfully launched.
+2. BlackDiamond Tech Chat UI (Completed)
+A modern chat UI page designed for the domain blackdiamondtech.ca, integrating OpenAI's ChatGPT-4.0-mini model using the OpenAI API. The project showcases:
 
-## Black Diamond Software Website:
+Technologies: PHP, Tailwind CSS (via CDN) for a sleek and user-friendly interface.
+Highlights: Dynamic chat interface, real-time interactions, and easy-to-integrate API components.
+Outcome: A robust and scalable chat system that enhances user engagement on the website.
+3. AI-Powered Web Scraping Tool (Completed)
+An advanced web scraping tool developed to automate data extraction across various websites, with a focus on scalability and efficiency. Key aspects of the project include:
 
-Description: A modern and professional portfolio website showcasing the skills and achievements of Black Diamond Software.
-Technologies: PHP, HTML5, CSS3, TailwindCSS, JavaScript
-Features:
-Responsive design
-Project showcase
-Contact form
-Status: In development
-
-
-## Westville Medical Clinic Website:
-
-Description: A comprehensive website for the Westville Medical Clinic, providing information about services, staff, and contact details.
-Technologies: PHP, Bootstrap5, HTML5, CSS3, JavaScript
-Features:
-Service listings
-Staff profiles
-Appointment booking form
-Status: In development
-
-## Social Media Platform for Baby Books/Milestones:
-
-Description: A social media platform designed for parents to document and share their children's milestones and memories.
-Technologies: PHP, Bootstrap5, MySQL, HTML5, CSS3, JavaScript
-Features:
-User registration and login
-Profile creation and management
-Post creation and sharing
-Photo and video uploads
-Status: In development
-
-## Desktop Application with User Login/Registration and Real-Time Chat:
-
-Description: A desktop application featuring a user login/registration system, task management, user profiles, and real-time chat integration.
-Technologies: Python, PyQt5, Node.js, Socket.io, Ollama API
-Features:
-User authentication
-Task management system
-User profiles
-Real-time chat functionality
-Status: In development
+Programming Languages: Python with libraries like BeautifulSoup, Selenium, and Scrapy.
+Features: Multi-threaded scraping, automatic CAPTCHA solving, and data storage in both SQL and NoSQL databases.
+Application: The tool is used for collecting large datasets for market analysis, SEO audits, and competitive intelligence.
 
 ## Recent Blog Posts
 
@@ -125,7 +79,7 @@ TBA
 
 ## Connect with Me
 
-email - ** amacleod@blackdiamondtherapy.ca ** 
+email - ** admin@blackdiamondtech.ca ** 
 
 ## Support Me
 
